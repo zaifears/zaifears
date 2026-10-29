@@ -72,10 +72,10 @@ I specialize in turning ideas into working product using AI. I can not write cod
 
 <div align="center">
 
-[![zaifears's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=zaifears&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/zaifears)
+[![zaifears's GitHub Stats](https://github-stats-extended.vercel.app/api?username=zaifears&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/zaifears)
 [![zaifears's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaifears&theme=radical&hide_border=true)](https://github.com/zaifears)
 
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zaifears&layout=compact&theme=radical&hide_border=true)](https://github.com/zaifears)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=zaifears&layout=compact&theme=radical&hide_border=true)](https://github.com/zaifears)
 
 </div>
 
